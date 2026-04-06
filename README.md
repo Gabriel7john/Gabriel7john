@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Fala aí! Eu sou o Gabriel
 
-<!--
-**Gabriel7john/Gabriel7john** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Desenvolvedor em evolução | Futuro Engenheiro de Software  
+💻 Focado em tecnologia, dados e desenvolvimento de sistemas  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mim
+- 📚 Estudando programação e tecnologia diariamente  
+- 🎯 Buscando oportunidade na área de TI  
+- ⚡ Sempre evoluindo e criando projetos  
+
+---
+
+## 🚀 Tecnologias que estou aprendendo
+<div style="display: inline_block"><br>
+  <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+---
+
+## 📊 Estatísticas
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel7john&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel7john&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contato
+- 💼 LinkedIn: (https://www.linkedin.com/in/gabriel-santana-souza-pereira-ba1786306/)
+- 📧 Email: (gabrielsantana0740@gmail.com)
+
+---
+
+💡 "Disciplina > Motivação"
