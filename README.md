@@ -21,10 +21,14 @@
 
 ---
 
-## 📊 Estatísticas
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel7john&show_icons=true&theme=tokyonight)
+## 📚 Atualmente estudando
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel7john&layout=compact&theme=tokyonight)
+- AWS
+- JavaScript
+- HTML & CSS
+- Git e GitHub
+- PY
+- SQL
 
 ---
 
