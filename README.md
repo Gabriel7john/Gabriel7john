@@ -15,8 +15,31 @@ Sou estudante e apaixonado por tecnologia, em constante evolução na área de d
 ---
 
 ## 💼 Experiência
+
+**Banco do Brasil**  
+Atuação em ambiente corporativo com foco em atendimento, organização de processos e suporte operacional.
+
+- 🏦 Atendimento ao cliente e suporte em demandas financeiras  
+- 📋 Organização e controle de processos internos  
+- 🤝 Comunicação direta com clientes e equipe  
+- ⚡ Desenvolvimento de responsabilidade, disciplina e trabalho sob pressão  
+
+Essa experiência contribuiu para o desenvolvimento de habilidades comportamentais essenciais, como comunicação, organização e foco em resultados.
+
+---
+
 **Compass UOL**  
-Atuação voltada ao desenvolvimento de habilidades em tecnologia, com foco em lógica de programação, Git/GitHub e construção de projetos práticos. Experiência em resolução de problemas e trabalho em equipe.
+
+Participação em programa de capacitação intensiva em tecnologia, com foco na formação prática em desenvolvimento de software.
+
+- 💻 Desenvolvimento de lógica de programação e resolução de problemas  
+- 🔧 Utilização de Git e GitHub para versionamento de código  
+- 🧪 Criação de projetos práticos simulando desafios do mercado  
+- 🤝 Trabalho em equipe com foco em colaboração e comunicação  
+- 📋 Contato com metodologias ágeis e organização de tarefas  
+- 📚 Estudo contínuo de boas práticas de desenvolvimento  
+
+Experiência voltada à preparação para o mercado de tecnologia, com ênfase em autonomia, disciplina e pensamento analítico.
 
 ---
 
@@ -59,8 +82,8 @@ Atuação voltada ao desenvolvimento de habilidades em tecnologia, com foco em l
 ---
 
 ## 📫 Contato
-- 💼 LinkedIn: (coloca aqui)
-- 📧 Email: (opcional)
+- 💼 LinkedIn:https://www.linkedin.com/in/gabriel-santana-souza-pereira-ba1786306/
+- 📧 Email: gabrielsantana0740@gmail.com
 
 ---
 
