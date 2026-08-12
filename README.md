@@ -66,71 +66,87 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel7john&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img src="https://github-stats-extended.vercel.app/api?username=gabriel7john&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel7john&layout=compact&langs_count=8&theme=tokyonight"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=gabriel7john&layout=compact&langs_count=8&theme=tokyonight" height="180"/>
 
 </div>
 
 ---
 
-## 🔥 Atividade no GitHub
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=gabriel7john&theme=tokyonight&hide_border=false" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=gabriel7john&theme=tokyonight&hide_border=false" />
 
 </div>
 
 ---
-
 ## 🚀 Projetos
 
 <div align="center">
 
-<a href="https://gabriel7john.github.io/dauri-website/">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel7john&repo=dauri-website&theme=tokyonight" />
+<a href="https://github.com/gabriel7john/MyProjets">
+<img src="https://img.shields.io/badge/🚀_MyProjets-Confira_meus_projetos-36BCF7?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+<br><br>
+
+📂 **MyProjets** é o repositório onde reúno meus principais projetos e estudos práticos.
+
+💻 Desenvolvimento Web • 📊 Data Analytics • 🐍 Python • ⚛️ React • 🟢 Node.js • 🟦 TypeScript • ☁️ AWS
 
 </div>
 
-**D'Auri** — E-commerce desenvolvido para uma marca de roupas, utilizando tecnologias web modernas.
+### 🔎 O que você vai encontrar
+
+* 🌐 Aplicações Web e Full Stack
+* 📊 Projetos de análise e tratamento de dados
+* 🐍 Projetos com Python
+* ⚛️ Aplicações com React
+* 🟢 APIs e Back-end com Node.js
+* 🗄️ Projetos envolvendo SQL e bancos de dados
+* ☁️ Estudos e aplicações com AWS
+* 🧪 Projetos desenvolvidos durante minha evolução profissional
+
+> 🚀 **Todos os meus projetos estão reunidos no repositório:**
+>
+> 👉 [github.com/gabriel7john/MyProjets](https://github.com/gabriel7john/MyProjets)
+
 
 ---
 
-## 🎯 Atualmente
-
-```text
-Full Stack Development  ████████████████░░░░  80%
-Data Analytics           ███████████████░░░░░  75%
-AWS / Cloud              ████████████░░░░░░░░  60%
-TypeScript               ███████████░░░░░░░░░  55%
-```
-
-📚 Estudando continuamente **TypeScript, Node.js, React, AWS, SQL, Python e Engenharia de Dados**.
-
----
-
-## 📫 Vamos conversar?
+## ⚡ Tech Stack
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/gabriel-santana-souza-pereira-ba1786306/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:gabrielsantana0740@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,react,html,css,mysql,aws,docker,git,github" />
 
 </div>
 
 ---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=gabriel7john&style=for-the-badge&label=VISITAS+AO+PERFIL" />
+
+</div>
+
+📫 Vamos conversar?
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/gabriel-santana-souza-pereira-ba1786306/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+
+<a href="mailto:gabrielsantana0740@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+
+</div>
 
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=gabriel7john&color=36BCF7&style=for-the-badge&label=PROFILE+VIEWS" />
 
-### ⚡ *"Disciplina vence talento."*
+⚡ "Disciplina vence talento."
 
 </div>
