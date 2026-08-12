@@ -1,90 +1,136 @@
-# 👋 Fala aí! Eu sou o Gabriel
+# 👋 Olá, eu sou o Gabriel!
 
-🚀 Desenvolvedor em evolução | Futuro Engenheiro de Software  
-💻 Focado em tecnologia, dados e desenvolvimento de sistemas  
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Data+Analytics+%F0%9F%93%8A;Python+%7C+Node.js+%7C+React+%7C+TypeScript;AWS+%7C+Docker+%7C+SQL;Sempre+aprendendo+e+construindo+%F0%9F%9A%80" alt="Typing SVG" />
+
+</div>
 
 ---
 
-## 🧠 Sobre mim
-Sou estudante e apaixonado por tecnologia, em constante evolução na área de desenvolvimento.
+## 🧑‍💻 Sobre mim
 
-- 📚 Estudando programação diariamente  
-- 🎯 Buscando minha primeira oportunidade em TI  
-- ⚡ Focado em evolução constante  
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas — UNIFACS**
+💻 **Full Stack Developer em formação**
+📊 Experiência com **Análise de Dados**
+☁️ Interesse em **Cloud, Dados e IA**
+🚀 Construindo projetos e evoluindo diariamente
 
 ---
 
 ## 💼 Experiência
 
-**Banco do Brasil**  
-Atuação em ambiente corporativo com foco em atendimento, organização de processos e suporte operacional.
+### 📊 ThinkOtherThings — Analista de Dados
 
-- 🏦 Atendimento ao cliente e suporte em demandas financeiras  
-- 📋 Organização e controle de processos internos  
-- 🤝 Comunicação direta com clientes e equipe  
-- ⚡ Desenvolvimento de responsabilidade, disciplina e trabalho sob pressão  
+* Análise, tratamento e organização de dados
+* Python, Pandas e SQL
+* Criação de análises para apoio à tomada de decisão
 
-Essa experiência contribuiu para o desenvolvimento de habilidades comportamentais essenciais, como comunicação, organização e foco em resultados.
+### 💻 Compass UOL — Programa de Capacitação
 
----
+* Python, JavaScript e desenvolvimento web
+* SQL e bancos de dados
+* Git e GitHub
+* Projetos práticos e trabalho em equipe
+* Metodologias ágeis
 
-**Compass UOL**  
+### 🏦 Banco do Brasil
 
-Participação em programa de capacitação intensiva em tecnologia, com foco na formação prática em desenvolvimento de software.
-
-- 💻 Desenvolvimento de lógica de programação e resolução de problemas  
-- 🔧 Utilização de Git e GitHub para versionamento de código  
-- 🧪 Criação de projetos práticos simulando desafios do mercado  
-- 🤝 Trabalho em equipe com foco em colaboração e comunicação  
-- 📋 Contato com metodologias ágeis e organização de tarefas  
-- 📚 Estudo contínuo de boas práticas de desenvolvimento  
-
-Experiência voltada à preparação para o mercado de tecnologia, com ênfase em autonomia, disciplina e pensamento analítico.
+* Atendimento e suporte ao cliente
+* Organização de processos
+* Comunicação e trabalho em equipe
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+## ⚡ Tech Stack
+
+<div align="center">
+
+### 💻 Desenvolvimento
+
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,nodejs,react,html,css" />
+
+### 📊 Dados & Banco de Dados
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+
+### ☁️ Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
+
 </div>
 
-- ☁️ AWS (Cloud Computing)
-- 🗄️ SQL (Banco de Dados)
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel7john&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel7john&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
 
 ---
 
-## 🚀 Projetos em destaque
-- 🧮 Calculadora (em breve)
-- 🌐 Site Responsivo (em breve)
-- 📊 Projetos de Dados (em breve)
+## 🔥 Atividade no GitHub
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=gabriel7john&theme=tokyonight&hide_border=false" />
+
+</div>
 
 ---
 
-## 📚 Atualmente estudando
-- Python  
-- JavaScript  
-- React  
-- SQL e MySQL  
-- AWS  
+## 🚀 Projetos
+
+<div align="center">
+
+<a href="https://gabriel7john.github.io/dauri-website/">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel7john&repo=dauri-website&theme=tokyonight" />
+</a>
+
+</div>
+
+**D'Auri** — E-commerce desenvolvido para uma marca de roupas, utilizando tecnologias web modernas.
 
 ---
 
-## ⚡ Diferenciais
-- Proatividade para aprender  
-- Facilidade com tecnologia  
-- Foco em evolução constante  
+## 🎯 Atualmente
+
+```text
+Full Stack Development  ████████████████░░░░  80%
+Data Analytics           ███████████████░░░░░  75%
+AWS / Cloud              ████████████░░░░░░░░  60%
+TypeScript               ███████████░░░░░░░░░  55%
+```
+
+📚 Estudando continuamente **TypeScript, Node.js, React, AWS, SQL, Python e Engenharia de Dados**.
 
 ---
 
-## 📫 Contato
-- 💼 LinkedIn:https://www.linkedin.com/in/gabriel-santana-souza-pereira-ba1786306/
-- 📧 Email: gabrielsantana0740@gmail.com
+## 📫 Vamos conversar?
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/gabriel-santana-souza-pereira-ba1786306/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:gabrielsantana0740@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-💡 "Disciplina vence talento."
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=gabriel7john&color=36BCF7&style=for-the-badge&label=PROFILE+VIEWS" />
+
+### ⚡ *"Disciplina vence talento."*
+
+</div>
