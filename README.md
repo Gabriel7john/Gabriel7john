@@ -20,6 +20,13 @@
 
 ## 💼 Experiência
 
+### 🌐 HeptaNet — Especialista de Suporte
+
+* Diagnóstico de rede (quedas, lentidão, latência)
+* Configuração e análise de equipamentos (ONU/ONT, roteadores, OLTs)
+* Tratamento de chamados complexos e suporte à equipe de campo
+* Monitoramento de indicadores e integração entre setores (NOC, comercial, atendimento)
+
 ### 📊 ThinkOtherThings — Analista de Dados
 
 * Análise, tratamento e organização de dados
