@@ -22,6 +22,7 @@
  > FORMAÇÃO .... Análise e Desenvolvimento de Sistemas
  > ARSENAL ..... Python · JavaScript · React · Node.js
  > ORIGEM ...... TI desde criança (culpa dos games)
+ > ATUAL ....... Suporte N1 · Tete a Tete
  > STATUS ...... online e construindo
 ```
 
@@ -42,6 +43,18 @@
 <img src="https://img.shields.io/badge/GitHub-0b0b1a?style=for-the-badge&logo=github&logoColor=00f0ff&color=ff2e97" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2e97,100:00f0ff&height=3" width="100%" alt="" />
+
+## // EXPERIÊNCIA
+
+| Empresa | Cargo | O que faço / fiz |
+|:--|:--|:--|
+| **Tete a Tete** · _atual_ | Suporte N1 | Atendimento e suporte de nível 1 |
+| **HeptaNet** | Especialista de Suporte | Diagnóstico de internet (quedas, lentidão, latência), análise de ONU/ONT, roteadores e OLTs, configuração de Wi-Fi, IP, DNS, DHCP e VLAN, análise de causa raiz e documentação de soluções |
+| **ThinkOtherThings** | Analista de Dados | Análise e tratamento de dados com Python, Pandas e SQL para apoiar a tomada de decisão |
+| **Compass UOL** | Programa de Capacitação | Python e JavaScript, desenvolvimento web, SQL, Git e GitHub, projetos práticos e metodologias ágeis |
+| **Banco do Brasil** | Atendimento e Suporte | Atendimento ao cliente, organização de processos, comunicação e trabalho em equipe |
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2e97,100:00f0ff&height=3" width="100%" alt="" />
 
