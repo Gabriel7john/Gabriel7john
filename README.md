@@ -1,78 +1,74 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:052e16&height=170&section=header&text=Gabriel%20Santana&fontSize=52&fontColor=00ff41&fontAlignY=42&desc=%3E%20full_stack_developer.exe&descSize=20&descColor=00ff41&descAlignY=68" width="100%" />
+<img src="assets/header.svg" width="100%" alt="Gabriel Santana" />
 
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=700&color=00FF41&background=00000000&center=true&vCenter=true&width=700&height=40&lines=%3E+whoami;%3E+Gabriel+Santana+%7C+Full+Stack+Developer;%3E+sudo+make+coffee+--strong;%3E+compiling+ideas+into+products...;%3E+access+granted+%F0%9F%94%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=800&color=00F0FF&background=00000000&center=true&vCenter=true&width=720&height=40&lines=Desenvolvedor+Full+Stack+%E2%9A%A1;Transformando+ideias+em+produtos;Python+%C2%B7+JavaScript+%C2%B7+React+%C2%B7+Node.js;Online+e+construindo+o+futuro+%F0%9F%8C%86" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Gabriel7john&label=ACESSOS&color=00ff41&labelColor=0d1117&style=flat-square" alt="visitas" />
+<img src="https://komarev.com/ghpvc/?username=Gabriel7john&label=VISITAS&color=ff2e97&labelColor=0b0b1a&style=for-the-badge" alt="visitas" />
 
 </div>
 
-<br/>
+<img src="assets/divider.svg" width="100%" alt="" />
 
-## `> cat sobre.txt`
+## // SOBRE
 
-```bash
-gabriel@dev:~$ whoami
-Gabriel Santana
-
-gabriel@dev:~$ cat perfil.conf
-funcao     = "Desenvolvedor Full Stack"
-formacao   = "Análise e Desenvolvimento de Sistemas"
-stack      = ["Python", "JavaScript", "React", "Node.js"]
-origem     = "TI desde criança (culpa dos games)"
-status     = "online e construindo"
-
-gabriel@dev:~$ _
+```
+ > NOME ........ Gabriel Santana
+ > CLASSE ...... Desenvolvedor Full Stack
+ > FORMAÇÃO .... Análise e Desenvolvimento de Sistemas
+ > ARSENAL ..... Python · JavaScript · React · Node.js
+ > ORIGEM ...... TI desde criança (culpa dos games)
+ > STATUS ...... online e construindo
 ```
 
-## `> ls ./stack`
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## // ARSENAL
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,express,html,css,git,github,vscode&theme=dark" alt="stack" />
+<img src="https://img.shields.io/badge/Python-0b0b1a?style=for-the-badge&logo=python&logoColor=00f0ff&labelColor=0b0b1a&color=ff2e97" />
+<img src="https://img.shields.io/badge/JavaScript-0b0b1a?style=for-the-badge&logo=javascript&logoColor=00f0ff&labelColor=0b0b1a&color=ff2e97" />
+<img src="https://img.shields.io/badge/React-0b0b1a?style=for-the-badge&logo=react&logoColor=00f0ff&labelColor=0b0b1a&color=ff2e97" />
+<img src="https://img.shields.io/badge/Node.js-0b0b1a?style=for-the-badge&logo=nodedotjs&logoColor=00f0ff&labelColor=0b0b1a&color=ff2e97" />
+<img src="https://img.shields.io/badge/Express-0b0b1a?style=for-the-badge&logo=express&logoColor=00f0ff&labelColor=0b0b1a&color=ff2e97" />
+<img src="https://img.shields.io/badge/HTML5-0b0b1a?style=for-the-badge&logo=html5&logoColor=00f0ff&labelColor=0b0b1a&color=ff2e97" />
+<img src="https://img.shields.io/badge/CSS3-0b0b1a?style=for-the-badge&logo=css3&logoColor=00f0ff&labelColor=0b0b1a&color=ff2e97" />
+<img src="https://img.shields.io/badge/Git-0b0b1a?style=for-the-badge&logo=git&logoColor=00f0ff&labelColor=0b0b1a&color=ff2e97" />
+<img src="https://img.shields.io/badge/GitHub-0b0b1a?style=for-the-badge&logo=github&logoColor=00f0ff&labelColor=0b0b1a&color=ff2e97" />
 
 </div>
 
-## `> ./projetos --destaque`
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## // PROJETOS
 
 <div align="center">
 
-<a href="https://github.com/Gabriel7john/Casa-do-hamburguerapp"><img src="assets/cards/Casa-do-hamburguerapp.svg" width="400" alt="Casa-do-hamburguerapp" /></a>
-<a href="https://github.com/Gabriel7john/FitLove_app"><img src="assets/cards/FitLove_app.svg" width="400" alt="FitLove_app" /></a>
+<a href="https://github.com/Gabriel7john/Casa-do-hamburguerapp"><img src="assets/cards/Casa-do-hamburguerapp.svg" width="420" alt="Casa-do-hamburguerapp" /></a>
+<a href="https://github.com/Gabriel7john/FitLove_app"><img src="assets/cards/FitLove_app.svg" width="420" alt="FitLove_app" /></a>
 
-<a href="https://github.com/Gabriel7john/usd-brl-etl-ai"><img src="assets/cards/usd-brl-etl-ai.svg" width="400" alt="usd-brl-etl-ai" /></a>
-<a href="https://github.com/Gabriel7john/flappy-bird-react"><img src="assets/cards/flappy-bird-react.svg" width="400" alt="flappy-bird-react" /></a>
+<a href="https://github.com/Gabriel7john/usd-brl-etl-ai"><img src="assets/cards/usd-brl-etl-ai.svg" width="420" alt="usd-brl-etl-ai" /></a>
+<a href="https://github.com/Gabriel7john/flappy-bird-react"><img src="assets/cards/flappy-bird-react.svg" width="420" alt="flappy-bird-react" /></a>
 
-<a href="https://github.com/Gabriel7john/barbearia-agendamento"><img src="assets/cards/barbearia-agendamento.svg" width="400" alt="barbearia-agendamento" /></a>
-<a href="https://github.com/Gabriel7john/Do-Zero-ao-Primeiro-C-digo"><img src="assets/cards/Do-Zero-ao-Primeiro-C-digo.svg" width="400" alt="Do-Zero-ao-Primeiro-C-digo" /></a>
+<a href="https://github.com/Gabriel7john/barbearia-agendamento"><img src="assets/cards/barbearia-agendamento.svg" width="420" alt="barbearia-agendamento" /></a>
+<a href="https://github.com/Gabriel7john/Do-Zero-ao-Primeiro-C-digo"><img src="assets/cards/Do-Zero-ao-Primeiro-C-digo.svg" width="420" alt="Do-Zero-ao-Primeiro-C-digo" /></a>
 
 </div>
 
-## `> ./stats.sh`
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## // ATIVIDADE
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Gabriel7john&show_icons=true&count_private=true&bg_color=0d1117&title_color=00ff41&text_color=00ff41&icon_color=00ff41&border_color=1f6f3a" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel7john&layout=compact&bg_color=0d1117&title_color=00ff41&text_color=00ff41&icon_color=00ff41&border_color=1f6f3a" />
+<img src="https://streak-stats.demolab.com?user=Gabriel7john&background=0b0b1a&stroke=ff2e97&ring=00f0ff&fire=ff2e97&currStreakNum=00f0ff&sideNums=ff2e97&currStreakLabel=00f0ff&sideLabels=ff2e97&dates=8888aa&border=ff2e97" />
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Gabriel7john&background=0d1117&stroke=1f6f3a&ring=00ff41&fire=00ff41&currStreakNum=00ff41&sideNums=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&dates=6e7681&border=1f6f3a" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gabriel7john&bg_color=0d1117&color=00ff41&line=00ff41&point_color=ffffff&area=true&area_color=00ff41&hide_border=true&title_color=00ff41" width="100%" />
-
-</div>
-
-## `> ./snake.sh`
-
-<div align="center">
+<br/><br/>
 
 <img src="https://raw.githubusercontent.com/Gabriel7john/Gabriel7john/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 
@@ -80,14 +76,16 @@ gabriel@dev:~$ _
 
 <!-- A cobrinha só aparece depois de rodar o workflow snake.yml em .github/workflows/ -->
 
-## `> ssh contato@gabriel`
+<img src="assets/divider.svg" width="100%" alt="" />
+
+## // CONTATO
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41" /></a>
-<a href="mailto:SEU-EMAIL@exemplo.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff41" /></a>
-<a href="https://SEU-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=00ff41" /></a>
+<a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0b0b1a?style=for-the-badge&logo=linkedin&logoColor=00f0ff&color=ff2e97" /></a>
+<a href="mailto:SEU-EMAIL@exemplo.com"><img src="https://img.shields.io/badge/Email-0b0b1a?style=for-the-badge&logo=gmail&logoColor=00f0ff&color=ff2e97" /></a>
+<a href="https://SEU-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0b0b1a?style=for-the-badge&logo=vercel&logoColor=00f0ff&color=ff2e97" /></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:052e16,100:000000&height=80&section=footer&text=%3E%20connection%20closed.&fontSize=18&fontColor=00ff41" width="100%" />
+<img src="assets/divider.svg" width="100%" alt="" />
