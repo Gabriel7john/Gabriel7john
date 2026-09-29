@@ -1,4 +1,4 @@
-<img src="assets/header.svg" width="100%" alt="Gabriel Santana" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2e97,50:8a2be2,100:00f0ff&height=230&section=header&text=Gabriel%20Santana&fontSize=56&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=FULL%20STACK%20DEVELOPER&descSize=20&descAlignY=60" width="100%" />
 
 <div align="center">
 
@@ -12,7 +12,7 @@
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2e97,100:00f0ff&height=3" width="100%" alt="" />
 
 ## // SOBRE
 
@@ -25,42 +25,38 @@
  > STATUS ...... online e construindo
 ```
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2e97,100:00f0ff&height=3" width="100%" alt="" />
 
 ## // ARSENAL
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-0b0b1a?style=for-the-badge&logo=python&logoColor=00f0ff&labelColor=0b0b1a&color=ff2e97" />
-<img src="https://img.shields.io/badge/JavaScript-0b0b1a?style=for-the-badge&logo=javascript&logoColor=00f0ff&labelColor=0b0b1a&color=ff2e97" />
-<img src="https://img.shields.io/badge/React-0b0b1a?style=for-the-badge&logo=react&logoColor=00f0ff&labelColor=0b0b1a&color=ff2e97" />
-<img src="https://img.shields.io/badge/Node.js-0b0b1a?style=for-the-badge&logo=nodedotjs&logoColor=00f0ff&labelColor=0b0b1a&color=ff2e97" />
-<img src="https://img.shields.io/badge/Express-0b0b1a?style=for-the-badge&logo=express&logoColor=00f0ff&labelColor=0b0b1a&color=ff2e97" />
-<img src="https://img.shields.io/badge/HTML5-0b0b1a?style=for-the-badge&logo=html5&logoColor=00f0ff&labelColor=0b0b1a&color=ff2e97" />
-<img src="https://img.shields.io/badge/CSS3-0b0b1a?style=for-the-badge&logo=css3&logoColor=00f0ff&labelColor=0b0b1a&color=ff2e97" />
-<img src="https://img.shields.io/badge/Git-0b0b1a?style=for-the-badge&logo=git&logoColor=00f0ff&labelColor=0b0b1a&color=ff2e97" />
-<img src="https://img.shields.io/badge/GitHub-0b0b1a?style=for-the-badge&logo=github&logoColor=00f0ff&labelColor=0b0b1a&color=ff2e97" />
+<img src="https://img.shields.io/badge/Python-0b0b1a?style=for-the-badge&logo=python&logoColor=00f0ff&color=ff2e97" />
+<img src="https://img.shields.io/badge/JavaScript-0b0b1a?style=for-the-badge&logo=javascript&logoColor=00f0ff&color=ff2e97" />
+<img src="https://img.shields.io/badge/React-0b0b1a?style=for-the-badge&logo=react&logoColor=00f0ff&color=ff2e97" />
+<img src="https://img.shields.io/badge/Node.js-0b0b1a?style=for-the-badge&logo=nodedotjs&logoColor=00f0ff&color=ff2e97" />
+<img src="https://img.shields.io/badge/Express-0b0b1a?style=for-the-badge&logo=express&logoColor=00f0ff&color=ff2e97" />
+<img src="https://img.shields.io/badge/HTML5-0b0b1a?style=for-the-badge&logo=html5&logoColor=00f0ff&color=ff2e97" />
+<img src="https://img.shields.io/badge/CSS3-0b0b1a?style=for-the-badge&logo=css3&logoColor=00f0ff&color=ff2e97" />
+<img src="https://img.shields.io/badge/Git-0b0b1a?style=for-the-badge&logo=git&logoColor=00f0ff&color=ff2e97" />
+<img src="https://img.shields.io/badge/GitHub-0b0b1a?style=for-the-badge&logo=github&logoColor=00f0ff&color=ff2e97" />
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2e97,100:00f0ff&height=3" width="100%" alt="" />
 
 ## // PROJETOS
 
-<div align="center">
+| Repositório | O que é |
+|:--|:--|
+| <a href="https://github.com/Gabriel7john/Casa-do-hamburguerapp"><img src="https://img.shields.io/badge/Casa--do--hamburguerapp-FULL%20STACK-0b0b1a?style=for-the-badge&logo=github&logoColor=white&labelColor=ff2e97" /></a> | Sistema completo para uma hamburgueria |
+| <a href="https://github.com/Gabriel7john/FitLove_app"><img src="https://img.shields.io/badge/FitLove__app-NODE%20%2F%20EXPRESS-0b0b1a?style=for-the-badge&logo=github&logoColor=white&labelColor=ff2e97" /></a> | App de casal para treino e alimentação |
+| <a href="https://github.com/Gabriel7john/usd-brl-etl-ai"><img src="https://img.shields.io/badge/usd--brl--etl--ai-PYTHON%20%C2%B7%20ETL-0b0b1a?style=for-the-badge&logo=github&logoColor=white&labelColor=ff2e97" /></a> | Pipeline ETL da cotação USD/BRL + dashboard |
+| <a href="https://github.com/Gabriel7john/flappy-bird-react"><img src="https://img.shields.io/badge/flappy--bird--react-REACT%20%C2%B7%20CANVAS-0b0b1a?style=for-the-badge&logo=github&logoColor=white&labelColor=ff2e97" /></a> | Clone do Flappy Bird feito do zero |
+| <a href="https://github.com/Gabriel7john/barbearia-agendamento"><img src="https://img.shields.io/badge/barbearia--agendamento-AGENDAMENTOS-0b0b1a?style=for-the-badge&logo=github&logoColor=white&labelColor=ff2e97" /></a> | Sistema de agendamentos para barbearia |
+| <a href="https://github.com/Gabriel7john/Do-Zero-ao-Primeiro-C-digo"><img src="https://img.shields.io/badge/Do--Zero--ao--Primeiro--C--digo-E--BOOK-0b0b1a?style=for-the-badge&logo=github&logoColor=white&labelColor=ff2e97" /></a> | Landing page do e-book de programação |
 
-<a href="https://github.com/Gabriel7john/Casa-do-hamburguerapp"><img src="assets/cards/Casa-do-hamburguerapp.svg" width="420" alt="Casa-do-hamburguerapp" /></a>
-<a href="https://github.com/Gabriel7john/FitLove_app"><img src="assets/cards/FitLove_app.svg" width="420" alt="FitLove_app" /></a>
-
-<a href="https://github.com/Gabriel7john/usd-brl-etl-ai"><img src="assets/cards/usd-brl-etl-ai.svg" width="420" alt="usd-brl-etl-ai" /></a>
-<a href="https://github.com/Gabriel7john/flappy-bird-react"><img src="assets/cards/flappy-bird-react.svg" width="420" alt="flappy-bird-react" /></a>
-
-<a href="https://github.com/Gabriel7john/barbearia-agendamento"><img src="assets/cards/barbearia-agendamento.svg" width="420" alt="barbearia-agendamento" /></a>
-<a href="https://github.com/Gabriel7john/Do-Zero-ao-Primeiro-C-digo"><img src="assets/cards/Do-Zero-ao-Primeiro-C-digo.svg" width="420" alt="Do-Zero-ao-Primeiro-C-digo" /></a>
-
-</div>
-
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2e97,100:00f0ff&height=3" width="100%" alt="" />
 
 ## // ATIVIDADE
 
@@ -68,15 +64,9 @@
 
 <img src="https://streak-stats.demolab.com?user=Gabriel7john&background=0b0b1a&stroke=ff2e97&ring=00f0ff&fire=ff2e97&currStreakNum=00f0ff&sideNums=ff2e97&currStreakLabel=00f0ff&sideLabels=ff2e97&dates=8888aa&border=ff2e97" />
 
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/Gabriel7john/Gabriel7john/output/github-contribution-grid-snake-dark.svg" alt="snake" />
-
 </div>
 
-<!-- A cobrinha só aparece depois de rodar o workflow snake.yml em .github/workflows/ -->
-
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2e97,100:00f0ff&height=3" width="100%" alt="" />
 
 ## // CONTATO
 
@@ -88,4 +78,4 @@
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:8a2be2,100:ff2e97&height=110&section=footer" width="100%" />
