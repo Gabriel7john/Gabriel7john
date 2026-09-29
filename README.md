@@ -42,26 +42,14 @@ gabriel@dev:~$ _
 
 <div align="center">
 
-<a href="https://github.com/Gabriel7john/Casa-do-hamburguerapp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gabriel7john&repo=Casa-do-hamburguerapp&bg_color=0d1117&title_color=00ff41&text_color=00ff41&icon_color=00ff41&border_color=1f6f3a" />
-</a>
-<a href="https://github.com/Gabriel7john/FitLove_app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gabriel7john&repo=FitLove_app&bg_color=0d1117&title_color=00ff41&text_color=00ff41&icon_color=00ff41&border_color=1f6f3a" />
-</a>
+<a href="https://github.com/Gabriel7john/Casa-do-hamburguerapp"><img src="assets/cards/Casa-do-hamburguerapp.svg" width="400" alt="Casa-do-hamburguerapp" /></a>
+<a href="https://github.com/Gabriel7john/FitLove_app"><img src="assets/cards/FitLove_app.svg" width="400" alt="FitLove_app" /></a>
 
-<a href="https://github.com/Gabriel7john/usd-brl-etl-ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gabriel7john&repo=usd-brl-etl-ai&bg_color=0d1117&title_color=00ff41&text_color=00ff41&icon_color=00ff41&border_color=1f6f3a" />
-</a>
-<a href="https://github.com/Gabriel7john/flappy-bird-react">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gabriel7john&repo=flappy-bird-react&bg_color=0d1117&title_color=00ff41&text_color=00ff41&icon_color=00ff41&border_color=1f6f3a" />
-</a>
+<a href="https://github.com/Gabriel7john/usd-brl-etl-ai"><img src="assets/cards/usd-brl-etl-ai.svg" width="400" alt="usd-brl-etl-ai" /></a>
+<a href="https://github.com/Gabriel7john/flappy-bird-react"><img src="assets/cards/flappy-bird-react.svg" width="400" alt="flappy-bird-react" /></a>
 
-<a href="https://github.com/Gabriel7john/barbearia-agendamento">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gabriel7john&repo=barbearia-agendamento&bg_color=0d1117&title_color=00ff41&text_color=00ff41&icon_color=00ff41&border_color=1f6f3a" />
-</a>
-<a href="https://github.com/Gabriel7john/Do-Zero-ao-Primeiro-C-digo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gabriel7john&repo=Do-Zero-ao-Primeiro-C-digo&bg_color=0d1117&title_color=00ff41&text_color=00ff41&icon_color=00ff41&border_color=1f6f3a" />
-</a>
+<a href="https://github.com/Gabriel7john/barbearia-agendamento"><img src="assets/cards/barbearia-agendamento.svg" width="400" alt="barbearia-agendamento" /></a>
+<a href="https://github.com/Gabriel7john/Do-Zero-ao-Primeiro-C-digo"><img src="assets/cards/Do-Zero-ao-Primeiro-C-digo.svg" width="400" alt="Do-Zero-ao-Primeiro-C-digo" /></a>
 
 </div>
 
