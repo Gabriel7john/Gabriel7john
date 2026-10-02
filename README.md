@@ -33,8 +33,6 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=ffffff&color=ff1a1a" />
-<img src="https://img.shields.io/badge/AI-0a0a0a?style=for-the-badge&color=ff1a1a" />
-<img src="https://img.shields.io/badge/LLMs-0a0a0a?style=for-the-badge&color=ff1a1a" />
 <img src="https://img.shields.io/badge/TypeScript-0a0a0a?style=for-the-badge&logo=typescript&logoColor=ffffff&color=ff1a1a" />
 <img src="https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=ffffff&color=ff1a1a" />
 <img src="https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=ffffff&color=ff1a1a" />
@@ -44,6 +42,8 @@
 <img src="https://img.shields.io/badge/CSS3-0a0a0a?style=for-the-badge&logo=css3&logoColor=ffffff&color=ff1a1a" />
 <img src="https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=ffffff&color=ff1a1a" />
 <img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=ffffff&color=ff1a1a" />
+<img src="https://img.shields.io/badge/AI-0a0a0a?style=for-the-badge&color=ff1a1a" />
+<img src="https://img.shields.io/badge/LLMs-0a0a0a?style=for-the-badge&color=ff1a1a" />
 
 </div>
 
