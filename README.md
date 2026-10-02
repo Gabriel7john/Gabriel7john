@@ -51,7 +51,7 @@
 
 ## // EXPERIÊNCIA
 
-### Suporte N1 · Tete a Tete `ATUAL`
+### Analista de Soluções N1 · Tete a Tete `ATUAL`
 
 - Primeiro contato no atendimento e suporte aos clientes, com registro e triagem dos chamados
 - Resolução de dúvidas e problemas de nível básico, seguindo os procedimentos da empresa
