@@ -48,13 +48,55 @@
 
 ## // EXPERIÊNCIA
 
-| Empresa | Cargo | O que faço / fiz |
-|:--|:--|:--|
-| **Tete a Tete** · _atual_ | Suporte N1 | Atendimento e suporte de nível 1 |
-| **HeptaNet** | Especialista de Suporte | Diagnóstico de internet (quedas, lentidão, latência), análise de ONU/ONT, roteadores e OLTs, configuração de Wi-Fi, IP, DNS, DHCP e VLAN, análise de causa raiz e documentação de soluções |
-| **ThinkOtherThings** | Analista de Dados | Análise e tratamento de dados com Python, Pandas e SQL para apoiar a tomada de decisão |
-| **Compass UOL** | Programa de Capacitação | Python e JavaScript, desenvolvimento web, SQL, Git e GitHub, projetos práticos e metodologias ágeis |
-| **Banco do Brasil** | Atendimento e Suporte | Atendimento ao cliente, organização de processos, comunicação e trabalho em equipe |
+### Suporte N1 · Tete a Tete `ATUAL`
+
+- Primeiro contato no atendimento e suporte aos clientes, com registro e triagem dos chamados
+- Resolução de dúvidas e problemas de nível básico, seguindo os procedimentos da empresa
+- Escalonamento correto dos casos mais complexos para os níveis seguintes, com o histórico bem documentado
+- Comunicação clara e objetiva, sempre com foco na satisfação do cliente
+
+`Atendimento` `Triagem de chamados` `Suporte N1`
+
+### Especialista de Suporte · HeptaNet
+
+- Diagnóstico de problemas de internet: quedas, lentidão, latência e rota
+- Análise de equipamentos: ONU/ONT, roteadores e OLTs
+- Configuração de roteadores, Wi-Fi, IP, DNS, DHCP e VLAN
+- Consulta a sistemas internos (clientes, planos, sinais e chamados) e monitoramento de indicadores de rede
+- Tratamento de chamados complexos e apoio à equipe técnica de campo
+- Contato com outros setores: NOC, infraestrutura, campo, comercial e atendimento
+- Análise de causa raiz e documentação de problemas e soluções
+
+`Redes` `ONU/ONT` `OLT` `DNS` `DHCP` `VLAN` `Wi-Fi`
+
+### Analista de Dados · ThinkOtherThings
+
+- Análise, tratamento e organização de dados
+- Criação de análises para apoiar a tomada de decisão
+- Uso de Python, Pandas e SQL no dia a dia
+
+`Python` `Pandas` `SQL`
+
+### Programa de Capacitação · Compass UOL
+
+- Formação prática em Python, JavaScript e desenvolvimento web
+- SQL e bancos de dados
+- Versionamento de código com Git e GitHub
+- Projetos práticos, trabalho em equipe e metodologias ágeis
+
+`Python` `JavaScript` `SQL` `Git` `GitHub` `Agile`
+
+### Agente de Empréstimo · Banco do Brasil `MAR 2025 — JAN 2026`
+
+- Atendimento a clientes interessados em crédito, entendendo o perfil e a necessidade de cada um
+- Apresentação das modalidades de empréstimo, com taxas, prazos e condições
+- Simulações de crédito e orientação sobre a documentação necessária
+- Abertura e acompanhamento de propostas até a conclusão da contratação
+- Esclarecimento de dúvidas e suporte ao cliente antes e depois da contratação
+- Atendimento seguindo as normas e políticas internas do banco
+- Organização de processos, atingimento de metas, comunicação e trabalho em equipe
+
+`Crédito` `Atendimento` `Simulação` `Relacionamento`
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff1a1a,100:8b0000&height=3" width="100%" alt="" />
 
