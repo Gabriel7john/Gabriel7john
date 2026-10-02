@@ -33,6 +33,8 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=ffffff&color=ff1a1a" />
+<img src="https://img.shields.io/badge/AI-0a0a0a?style=for-the-badge&color=ff1a1a" />
+<img src="https://img.shields.io/badge/LLMs-0a0a0a?style=for-the-badge&color=ff1a1a" />
 <img src="https://img.shields.io/badge/TypeScript-0a0a0a?style=for-the-badge&logo=typescript&logoColor=ffffff&color=ff1a1a" />
 <img src="https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=ffffff&color=ff1a1a" />
 <img src="https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=ffffff&color=ff1a1a" />
