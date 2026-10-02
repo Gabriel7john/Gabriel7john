@@ -85,6 +85,7 @@
 ### Programa de Capacitação · Compass UOL
 
 - Formação prática em Python, JavaScript e desenvolvimento web
+- Uso de computação em nuvem com serviços da AWS
 - SQL e bancos de dados
 - Versionamento de código com Git e GitHub
 - Projetos práticos, trabalho em equipe e metodologias ágeis
