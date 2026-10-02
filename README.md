@@ -51,14 +51,16 @@
 
 ## // EXPERIÊNCIA
 
-### Analista de Soluções N1 · Tete a Tete `ATUAL`
+### Suporte N1 · Tete a Tete `ATUAL`
 
 - Primeiro contato no atendimento e suporte aos clientes, com registro e triagem dos chamados
-- Resolução de dúvidas e problemas de nível básico, seguindo os procedimentos da empresa
-- Escalonamento correto dos casos mais complexos para os níveis seguintes, com o histórico bem documentado
-- Comunicação clara e objetiva, sempre com foco na satisfação do cliente
+- Gestão e acompanhamento de clientes e atendimentos no CRM
+- Criação e uso de automações de atendimento com n8n
+- Uso de AI para agilizar respostas e processos do dia a dia
+- Atendimento e comunicação com clientes pelas plataformas da Meta
+- Escalonamento dos casos mais complexos, com o histórico bem documentado
 
-`Atendimento` `Triagem de chamados` `Suporte N1`
+`CRM` `n8n` `AI` `Meta` `Atendimento` `Suporte N1`
 
 ### Especialista de Suporte · HeptaNet
 
