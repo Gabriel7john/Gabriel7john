@@ -51,7 +51,7 @@
 
 ## // EXPERIÊNCIA
 
-### Suporte N1 · Tete a Tete `ATUAL`
+### Suporte N1 · Tete a Tete <img src="https://img.shields.io/badge/ATUAL-ff1a1a?style=flat-square" alt="atual" />
 
 - Primeiro contato no atendimento e suporte aos clientes, com registro e triagem dos chamados
 - Gestão e acompanhamento de clientes e atendimentos no CRM
@@ -92,7 +92,7 @@
 
 `Python` `JavaScript` `SQL` `Git` `GitHub` `Agile`
 
-### Agente de Empréstimo · Banco do Brasil `MAR 2025 — JAN 2026`
+### Agente de Empréstimo · Banco do Brasil <img src="https://img.shields.io/badge/MAR%202025%20%E2%80%94%20JAN%202026-8b0000?style=flat-square" alt="período" />
 
 - Atendimento a clientes interessados em crédito, entendendo o perfil e a necessidade de cada um
 - Apresentação das modalidades de empréstimo, com taxas, prazos e condições
