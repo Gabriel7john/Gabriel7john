@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=800&color=FF1A1A&background=00000000&center=true&vCenter=true&width=720&height=40&lines=Desenvolvedor+Full+Stack+%E2%9A%A1;Transformando+ideias+em+produtos;Python+%C2%B7+JavaScript+%C2%B7+React+%C2%B7+Node.js;Online+e+construindo+o+futuro+%F0%9F%8C%86" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=800&color=FF1A1A&background=00000000&center=true&vCenter=true&width=720&height=40&lines=Desenvolvedor+Full+Stack+%E2%9A%A1;Transformando+ideias+em+produtos;Python+%C2%B7+JavaScript+%C2%B7+React+%C2%B7+Node.js;Automa%C3%A7%C3%B5es+com+n8n+%C2%B7+CRM+%C2%B7+AI;Online+e+construindo+o+futuro+%F0%9F%8C%86" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -20,7 +20,8 @@
  > NOME ........ Gabriel Santana
  > CLASSE ...... Desenvolvedor Full Stack
  > FORMAÇÃO .... Análise e Desenvolvimento de Sistemas
- > ARSENAL ..... Python · JavaScript · React · Node.js
+ > ARSENAL ..... Python · JavaScript · React · Node.js · n8n
+ > FOCO ........ Automação · CRM · AI
  > ORIGEM ...... TI desde criança (culpa dos games)
  > ATUAL ....... Suporte N1 · Tete a Tete
  > STATUS ...... online e construindo
@@ -42,6 +43,9 @@
 <img src="https://img.shields.io/badge/CSS3-0a0a0a?style=for-the-badge&logo=css3&logoColor=ff1a1a&color=1a1a1a" />
 <img src="https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=ff1a1a&color=1a1a1a" />
 <img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=ff1a1a&color=1a1a1a" />
+<img src="https://img.shields.io/badge/n8n-0a0a0a?style=for-the-badge&logo=n8n&logoColor=ff1a1a&color=1a1a1a" />
+<img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o-0a0a0a?style=for-the-badge&color=1a1a1a" />
+<img src="https://img.shields.io/badge/CRM-0a0a0a?style=for-the-badge&color=1a1a1a" />
 <img src="https://img.shields.io/badge/AI-0a0a0a?style=for-the-badge&color=1a1a1a" />
 <img src="https://img.shields.io/badge/LLMs-0a0a0a?style=for-the-badge&color=1a1a1a" />
 
@@ -60,7 +64,7 @@
 - Atendimento e comunicação com clientes pelas plataformas da Meta
 - Escalonamento dos casos mais complexos, com o histórico bem documentado
 
-`CRM` `n8n` `AI` `Meta` `Atendimento` `Suporte N1`
+`CRM` `n8n` `AI` `Meta` `Automação` `Atendimento` `Suporte N1`
 
 ### Especialista de Suporte · HeptaNet
 
