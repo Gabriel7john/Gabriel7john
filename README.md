@@ -135,11 +135,15 @@
 
 ## // CONTATO
 
+## // CONTATO
+
 <div align="center">
 
 <a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=ff1a1a&color=1a1a1a" /></a>
-<a href="mailto:SEU-EMAIL@exemplo.com"><img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=ff1a1a&color=1a1a1a" /></a>
+<a href="mailto:Gabrieltechdeveloper@gmail.com"><img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=ff1a1a&color=1a1a1a" /></a>
 <a href="https://SEU-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=ff1a1a&color=1a1a1a" /></a>
+
+</div>
 
 </div>
 
