@@ -1,18 +1,18 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,65:0d0d0d,100:8b0000&height=230&section=header&text=Gabriel%20Santana&fontSize=56&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=FULL%20STACK%20DEVELOPER&descSize=20&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:140000,100:a30000&height=230&section=header&text=Gabriel%20Santana&fontSize=56&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=FULL%20STACK%20DEVELOPER&descSize=20&descAlignY=60" width="100%" />
 
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=800&color=FF1A1A&background=00000000&center=true&vCenter=true&width=720&height=40&lines=Desenvolvedor+Full+Stack+%E2%9A%A1;Transformando+ideias+em+produtos;Python+%C2%B7+JavaScript+%C2%B7+React+%C2%B7+Node.js;Automa%C3%A7%C3%B5es+com+n8n+%C2%B7+CRM+%C2%B7+AI;Online+e+construindo+o+futuro+%F0%9F%8C%86" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=2800&pause=800&color=E01B1B&background=00000000&center=true&vCenter=true&width=720&height=40&lines=Desenvolvedor+Full+Stack+%E2%9A%A1;Transformando+ideias+em+produtos;Python+%C2%B7+JavaScript+%C2%B7+React+%C2%B7+Node.js;Automa%C3%A7%C3%B5es+com+n8n+%C2%B7+CRM+%C2%B7+AI;Online+e+construindo+o+futuro+%F0%9F%8C%86" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Gabriel7john&label=VISITAS&color=8b0000&labelColor=0a0a0a&style=for-the-badge" alt="visitas" />
+<img src="https://komarev.com/ghpvc/?username=Gabriel7john&label=VISITAS&color=a30000&labelColor=0a0a0a&style=for-the-badge" alt="visitas" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff1a1a,40:8b0000,100:0a0a0a&height=3" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:e01b1b,40:a30000,100:0a0a0a&height=3" width="100%" alt="" />
 
 ## // SOBRE
 
@@ -27,23 +27,23 @@
  > STATUS ...... online e construindo
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff1a1a,40:8b0000,100:0a0a0a&height=3" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:e01b1b,40:a30000,100:0a0a0a&height=3" width="100%" alt="" />
 
 ## // ARSENAL
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=ff1a1a&color=1a1a1a" />
-<img src="https://img.shields.io/badge/TypeScript-0a0a0a?style=for-the-badge&logo=typescript&logoColor=ff1a1a&color=1a1a1a" />
-<img src="https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=ff1a1a&color=1a1a1a" />
-<img src="https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=ff1a1a&color=1a1a1a" />
-<img src="https://img.shields.io/badge/Node.js-0a0a0a?style=for-the-badge&logo=nodedotjs&logoColor=ff1a1a&color=1a1a1a" />
-<img src="https://img.shields.io/badge/Express-0a0a0a?style=for-the-badge&logo=express&logoColor=ff1a1a&color=1a1a1a" />
-<img src="https://img.shields.io/badge/HTML5-0a0a0a?style=for-the-badge&logo=html5&logoColor=ff1a1a&color=1a1a1a" />
-<img src="https://img.shields.io/badge/CSS3-0a0a0a?style=for-the-badge&logo=css3&logoColor=ff1a1a&color=1a1a1a" />
-<img src="https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=ff1a1a&color=1a1a1a" />
-<img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=ff1a1a&color=1a1a1a" />
-<img src="https://img.shields.io/badge/n8n-0a0a0a?style=for-the-badge&logo=n8n&logoColor=ff1a1a&color=1a1a1a" />
+<img src="https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=e01b1b&color=1a1a1a" />
+<img src="https://img.shields.io/badge/TypeScript-0a0a0a?style=for-the-badge&logo=typescript&logoColor=e01b1b&color=1a1a1a" />
+<img src="https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=e01b1b&color=1a1a1a" />
+<img src="https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=e01b1b&color=1a1a1a" />
+<img src="https://img.shields.io/badge/Node.js-0a0a0a?style=for-the-badge&logo=nodedotjs&logoColor=e01b1b&color=1a1a1a" />
+<img src="https://img.shields.io/badge/Express-0a0a0a?style=for-the-badge&logo=express&logoColor=e01b1b&color=1a1a1a" />
+<img src="https://img.shields.io/badge/HTML5-0a0a0a?style=for-the-badge&logo=html5&logoColor=e01b1b&color=1a1a1a" />
+<img src="https://img.shields.io/badge/CSS3-0a0a0a?style=for-the-badge&logo=css3&logoColor=e01b1b&color=1a1a1a" />
+<img src="https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=e01b1b&color=1a1a1a" />
+<img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=e01b1b&color=1a1a1a" />
+<img src="https://img.shields.io/badge/n8n-0a0a0a?style=for-the-badge&logo=n8n&logoColor=e01b1b&color=1a1a1a" />
 <img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o-0a0a0a?style=for-the-badge&color=1a1a1a" />
 <img src="https://img.shields.io/badge/CRM-0a0a0a?style=for-the-badge&color=1a1a1a" />
 <img src="https://img.shields.io/badge/AI-0a0a0a?style=for-the-badge&color=1a1a1a" />
@@ -51,11 +51,11 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff1a1a,40:8b0000,100:0a0a0a&height=3" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:e01b1b,40:a30000,100:0a0a0a&height=3" width="100%" alt="" />
 
 ## // EXPERIÊNCIA
 
-### Suporte N1 · Tete a Tete <img src="https://img.shields.io/badge/ATUAL-ff1a1a?style=flat-square" alt="atual" />
+### Suporte N1 · Tete a Tete <img src="https://img.shields.io/badge/ATUAL-e01b1b?style=flat-square" alt="atual" />
 
 - Primeiro contato no atendimento e suporte aos clientes, com registro e triagem dos chamados
 - Gestão e acompanhamento de clientes e atendimentos no CRM
@@ -96,7 +96,7 @@
 
 `Python` `JavaScript` `SQL` `Git` `GitHub` `Agile`
 
-### Agente de Empréstimo · Banco do Brasil <img src="https://img.shields.io/badge/MAR%202025%20%E2%80%94%20JAN%202026-8b0000?style=flat-square" alt="período" />
+### Agente de Empréstimo · Banco do Brasil <img src="https://img.shields.io/badge/MAR%202025%20%E2%80%94%20JAN%202026-a30000?style=flat-square" alt="período" />
 
 - Atendimento a clientes interessados em crédito, entendendo o perfil e a necessidade de cada um
 - Apresentação das modalidades de empréstimo, com taxas, prazos e condições
@@ -108,35 +108,39 @@
 
 `Crédito` `Atendimento` `Simulação` `Relacionamento`
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff1a1a,40:8b0000,100:0a0a0a&height=3" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:e01b1b,40:a30000,100:0a0a0a&height=3" width="100%" alt="" />
 
 ## // PROJETOS
 
 | Repositório | O que é |
 |:--|:--|
-| <a href="https://github.com/Gabriel7john/Casa-do-hamburguerapp"><img src="https://img.shields.io/badge/Casa--do--hamburguerapp-FULL%20STACK-0a0a0a?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=8b0000" /></a> | Sistema completo para uma hamburgueria |
-| <a href="https://github.com/Gabriel7john/FitLove_app"><img src="https://img.shields.io/badge/FitLove__app-NODE%20%2F%20EXPRESS-0a0a0a?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=8b0000" /></a> | App de casal para treino e alimentação |
-| <a href="https://github.com/Gabriel7john/usd-brl-etl-ai"><img src="https://img.shields.io/badge/usd--brl--etl--ai-PYTHON%20%C2%B7%20ETL-0a0a0a?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=8b0000" /></a> | Pipeline ETL da cotação USD/BRL + dashboard |
-| <a href="https://github.com/Gabriel7john/flappy-bird-react"><img src="https://img.shields.io/badge/flappy--bird--react-REACT%20%C2%B7%20CANVAS-0a0a0a?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=8b0000" /></a> | Clone do Flappy Bird feito do zero |
-| <a href="https://github.com/Gabriel7john/barbearia-agendamento"><img src="https://img.shields.io/badge/barbearia--agendamento-AGENDAMENTOS-0a0a0a?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=8b0000" /></a> | Sistema de agendamentos para barbearia |
-| <a href="https://github.com/Gabriel7john/Do-Zero-ao-Primeiro-C-digo"><img src="https://img.shields.io/badge/Do--Zero--ao--Primeiro--C--digo-E--BOOK-0a0a0a?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=8b0000" /></a> | Landing page do e-book de programação |
+| <a href="https://github.com/Gabriel7john/Casa-do-hamburguerapp"><img src="https://img.shields.io/badge/Casa--do--hamburguerapp-FULL%20STACK-0a0a0a?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=a30000" /></a> | Sistema completo para uma hamburgueria |
+| <a href="https://github.com/Gabriel7john/FitLove_app"><img src="https://img.shields.io/badge/FitLove__app-NODE%20%2F%20EXPRESS-0a0a0a?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=a30000" /></a> | App de casal para treino e alimentação |
+| <a href="https://github.com/Gabriel7john/usd-brl-etl-ai"><img src="https://img.shields.io/badge/usd--brl--etl--ai-PYTHON%20%C2%B7%20ETL-0a0a0a?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=a30000" /></a> | Pipeline ETL da cotação USD/BRL + dashboard |
+| <a href="https://github.com/Gabriel7john/flappy-bird-react"><img src="https://img.shields.io/badge/flappy--bird--react-REACT%20%C2%B7%20CANVAS-0a0a0a?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=a30000" /></a> | Clone do Flappy Bird feito do zero |
+| <a href="https://github.com/Gabriel7john/barbearia-agendamento"><img src="https://img.shields.io/badge/barbearia--agendamento-AGENDAMENTOS-0a0a0a?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=a30000" /></a> | Sistema de agendamentos para barbearia |
+| <a href="https://github.com/Gabriel7john/Do-Zero-ao-Primeiro-C-digo"><img src="https://img.shields.io/badge/Do--Zero--ao--Primeiro--C--digo-E--BOOK-0a0a0a?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=a30000" /></a> | Landing page do e-book de programação |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff1a1a,40:8b0000,100:0a0a0a&height=3" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:e01b1b,40:a30000,100:0a0a0a&height=3" width="100%" alt="" />
 
 ## // ATIVIDADE
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Gabriel7john&background=0a0a0a&stroke=ff1a1a&ring=ff1a1a&fire=ff1a1a&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=8a8a8a&dates=6a6a6a&border=8b0000" />
+<img src="https://streak-stats.demolab.com?user=Gabriel7john&background=0a0a0a&stroke=e01b1b&ring=e01b1b&fire=e01b1b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=8a8a8a&dates=6a6a6a&border=a30000" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff1a1a,40:8b0000,100:0a0a0a&height=3" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:e01b1b,40:a30000,100:0a0a0a&height=3" width="100%" alt="" />
 
 ## // CONTATO
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=ff1a1a&color=1a1a1a" /></a>
-<a href="mailto:Gabrieltechdeveloper@gmail.com"><img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=ff1a1a&color=1a1a1a" /></a>
-<a href="https://SEU-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0a0a0a?style=for-
+<a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=e01b1b&color=1a1a1a" /></a>
+<a href="mailto:Gabrieltechdeveloper@gmail.com"><img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=e01b1b&color=1a1a1a" /></a>
+<a href="https://SEU-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=e01b1b&color=1a1a1a" /></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a30000,35:0d0d0d,100:000000&height=110&section=footer" width="100%" />
